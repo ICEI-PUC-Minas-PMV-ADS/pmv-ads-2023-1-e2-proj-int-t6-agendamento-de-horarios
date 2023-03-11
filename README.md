@@ -1,23 +1,21 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`Desenvolvimento e Análise de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Interativa`
 
-`SEMESTRE`
+`Eixo 2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Desenvolvimento de uma aplicação para agendamento de horários para uma barbearia, o objetivo geral deste projeto é a criação de um sistema onde os usuários consigam fazer agendamentos de uma maneira rápida e prática otimizando o tempo do estabelecimento e do cliente.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Jeferson Felix dos Santos 
+* Matheus Delay da Silva
 
 ## Orientador
 
-* Nome completo do professor 1
+* Bernardo Jeunon de Alencar
 
 ## Instruções de utilização
 
