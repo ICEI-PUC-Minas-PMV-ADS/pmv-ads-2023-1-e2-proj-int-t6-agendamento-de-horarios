@@ -1,46 +1,42 @@
 # Introdução
+O projeto é uma aplicação de agendamento de horários para uma barbearia. O mercado de beleza está cada vez mais competitivo e exige das empresas a adoção de tecnologias que facilitem a vida dos clientes e melhorem a eficiência operacional. No entanto, muitas barbearias ainda utilizam métodos tradicionais de agendamento, como ligações telefônicas e anotações em papel, o que pode levar a problemas como perda de tempo, erros de agendamento e no-shows. <br />
+O problema a ser resolvido com essa aplicação é justamente a falta de eficiência no processo de agendamento de horários para uma barbearia. <br />
+Pensando nisso, os principais objetivos do projeto incluem aumentar a eficiência da barbearia, reduzir no-shows, melhorar a satisfação do cliente e facilitar a comunicação. A aplicação permitirá que os clientes agendem horários de forma fácil e conveniente, com a adoção da aplicação, a barbearia poderá oferecer aos seus clientes uma forma mais moderna e prática de agendar horários. <br />
+O público-alvo para essa aplicação inclui clientes recorrentes, novos clientes, pessoas ocupadas, que valorizam a conveniência, tecnologia e transparência. A aplicação poderá atender às necessidades e preferências de cada grupo de clientes, fornecendo uma experiência personalizada e conveniente para todos.
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Um problema muito comum em barbearias é a falta de comunicação entre a equipe da barbearia e os clientes, nem sempre o profissional está disponível para atender uma ligação ou responder uma mensagem e muitas vezes a pessoa acaba perdendo muito tempo para fazer um simples agendamento de horário. <br />
+Pensando nisso decidimos criar uma aplicação que resolva isso através de um site, onde a pessoa pode ver os horários disponíveis e fazer a sua reserva sem esperar horas para conseguir contato com o estabelecimento.
 
 ## Objetivos
-
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O objetivo geral deste projeto é a criação de um sistema onde os usuários consigam fazer agendamentos de uma maneira rápida e prática otimizando o tempo do estabelecimento e do cliente.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Uma aplicação de agendamento de horários pode trazer uma série de benefícios para uma barbearia, incluindo:
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Melhoria da eficiência: uma aplicação de agendamento pode ajudar a barbearia a gerenciar melhor seu tempo e recursos, garantindo que o tempo dos profissionais seja bem aproveitado e que os clientes sejam atendidos de forma eficiente.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Redução de no-shows: a aplicação pode enviar lembretes automáticos de agendamento e permitir que os clientes cancelem ou agendem com antecedência, ajudando a minimizar o número de clientes que não comparecem aos seus compromissos.
+
+Aumento da satisfação do cliente: ao permitir que os clientes agendem seus próprios horários e tenham maior transparência sobre a disponibilidade dos profissionais e serviços, a aplicação pode ajudar a melhorar a experiência do cliente.
+
+Facilitação da comunicação: a aplicação pode fornecer um canal de comunicação direto entre a barbearia e os clientes, permitindo que eles enviem mensagens, solicitações e feedbacks de forma simples e eficiente.
+
+Melhoria na gestão do negócio: uma aplicação de agendamento pode fornecer informações valiosas sobre a demanda dos clientes, a capacidade de atendimento da barbearia e outras métricas importantes para a gestão do negócio.
+
+Com esses benefícios em mente, o desenvolvimento de uma aplicação de agendamento de horários pode ser uma ótima estratégia para melhorar a eficiência e a satisfação do cliente de uma barbearia, além de ajudar a impulsionar o crescimento e o sucesso do negócio.
+
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O público-alvo para uma aplicação de agendamento de horários para uma barbearia pode incluir:
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Clientes recorrentes: clientes que já visitaram a barbearia e desejam agendar horários futuros.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Novos clientes: pessoas que estão procurando uma nova barbearia e querem agendar um horário pela primeira vez.
+
+Clientes ocupados: pessoas que têm horários apertados e desejam agendar um horário de forma rápida e conveniente.
+
+Clientes tecnológicos: pessoas que estão acostumadas a usar aplicativos e tecnologia para gerenciar suas atividades cotidianas.
