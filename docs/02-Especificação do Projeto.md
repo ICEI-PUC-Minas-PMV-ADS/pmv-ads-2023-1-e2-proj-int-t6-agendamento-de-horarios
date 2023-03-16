@@ -19,11 +19,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Carlos Brito        |Ter uma agenda com as reservas dos meus clientes (RF-01)|Ter organização nos meus horários|
-|Carlos Brito        |Poder reservar um determinado horário na agenda para um cliente (RF-01 e 02)|Atender com mais praticidade os clientes e ter mais aproveitamento de tempo|
-|Carlos Brito        |Poder visualizar os proximos dias e os dias passados na minha agenda (RF-03 e 04)|Me organizar melhor para minhas próximas atividades e aproveitar melhor meu tempo|
+|Carlos Brito        |Poder reservar um determinado horário na agenda para um cliente (RF-03)|Atender com mais praticidade os clientes e ter mais aproveitamento de tempo|
+|Carlos Brito        |Poder visualizar os proximos dias e os dias passados na minha agenda (RF-04)|Me organizar melhor para minhas próximas atividades e aproveitar melhor meu tempo|
 |Jhonatan Rodrigues  |Um software que me auxilie a ver os horários e reservas da minha equipe (RF-01)|Melhorar o aproveitamento de tempo e o rendimento da minha equipe|
 |Jhonatan Rodrigues  |Poder alterar o horário ou cancelar uma reserva ja realizada na agenda (RF-05)|Ter praticidade caso ocorra algum imprevisto com meus horários|
-|Carlos Brito        |A agenda deve ser filtrada por dia e sendo separado por horários (RF-01 e 06)|Para ter um melhor modo de visualizar minhas atividades|
+|Carlos Brito        |O sistema deve ter a funcionalidade de cadastro e login de clientes (RF-02)|Ter mais organização e praticidade para os clientes|
 
 ## Requisitos
 
@@ -33,12 +33,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-01| O site deve apresentar na página principal uma agenda padrão com dia separado por horários | ALTA  | 
-|RF-02| O site deve permitir que seu usuário possa realizar uma reserva em um determinado horário na agenda | ALTA  |
-|RF-03| O site deve permitir ao usuário visualizar suas atividades passadas em sua agenda | MÉDIA |
-|RF-04| O site deve permitir ao usuário visualizar sua atividades futuras em sua agenda| MÉDIA  |
-|RF-05| O site deve permitir que o usuário possa editar e excluir uma atividade já criada na agenda | MÉDIA |
-|RF-06| O site deve permitir separar as atividades por horário | BAIXA |
+|RF-01| O sistema deve apresentar na página principal uma agenda padrão para realizar a reserva do horário | ALTA  | 
+|RF-02| O sistema deve apresentar a funcionalidade de cadastro e login de usuário | ALTA  |
+|RF-03| O site deve permitir ao usuário realizar uma marcação em um determinado horário na agenda | MÉDIA |
+|RF-04| O site deve possibilitar o usuário pesquisar e visualizar o histório de marcações na agenda | MÉDIA |
+|RF-05| O site deve permitir o administrador gerenciar as marcações criadas na agenda | MÉDIA |
 
 
 ### Requisitos não Funcionais
