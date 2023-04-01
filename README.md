@@ -12,6 +12,7 @@ Desenvolvimento de uma aplicação para agendamento de horários para uma barbea
 
 * Jeferson Felix dos Santos 
 * Matheus Delay da Silva
+* Samuel Ferreira de Oliveia
 
 ## Orientador
 
