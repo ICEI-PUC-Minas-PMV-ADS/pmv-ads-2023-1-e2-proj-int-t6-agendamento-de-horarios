@@ -31,23 +31,23 @@ Um horário pode ter muitos agendamentos
 Um agendamento é para um único serviço
 Um serviço pode estar em muitos agendamentos
 Um agendamento é para um único funcionário
-Um funcionário pode ter muitos agendamentos
+Um funcionário pode ter muitos agendamentos.
 
 
 ## Projeto da Base de Dados
 
 Definir os requisitos de negócios: O sistema de agendamento de horários deve permitir que clientes agendem serviços com funcionários em horários disponíveis. Os clientes devem ser capazes de visualizar os horários disponíveis para os serviços que desejam agendar, selecionar um horário disponível e confirmar o agendamento. Os funcionários devem ser capazes de visualizar sua agenda diária com os serviços agendados e os horários disponíveis.
-Identificar as entidades e seus relacionamentos:
+Identificar as entidades e seus relacionamentos.
 
 
 ![Modelo EF](https://user-images.githubusercontent.com/112700596/230214753-181537e4-7726-40f9-abd7-399a796c4c53.png)
 
 ## Tecnologias Utilizadas
 
-Identity Microsoft: Gerenciamento de usuários
-Framework: ASP.NET 7
-Linguagem de programação: C#
-Banco de dados SQL Server
+Identity Microsoft: Gerenciamento de usuários,
+Framework: ASP.NET 7,
+Linguagem de programação: C#,
+Banco de dados SQL Server,
 Todas as telas do sistema serão desenvolvidas com o Css e Type Script tentando o máximo não utilizar plugins de terceiros.
 
 ## Hospedagem
