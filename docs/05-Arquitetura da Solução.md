@@ -5,7 +5,7 @@ Nesta seção serão apresentados os detalhes técnicos da solução criada pela
 O projeto será desenvolvido utilizando o padrão de arquitetura em camadas por meio de uma aplicação ASP.NET Core MVC. No front-end serão utilizados razor pages (.Net), html, css e javaScript. No back-end utilizaremos C# e a construção de API Rest para comunicação com banco de dados SQL Server.
 ## Diagrama de Classes
 
-A arquitetura da solução consiste em uma aplicação web, uma API Rest e um banco de dados SQL Server hospedados em um servidor web na AWS. O sistema pode ser acessado através de interfaces web instaladas em desktops, notebooks, dispositivos móveis e painéis televisores.
+A arquitetura da solução consiste em uma aplicação web, uma API Rest e um banco de dados SQL Server hospedados em um servidor web na AZURE. O sistema pode ser acessado através de interfaces web instaladas em desktops, notebooks, dispositivos móveis e painéis televisores.
 
 Na figura a seguir são apresentados as classes do sistema.
 
@@ -17,17 +17,20 @@ Para modelar um sistema de agendamento de horários usando a abordagem de modela
 
 Entidades:
 
-Cliente: pessoa que agenda o horário
-Funcionário: pessoa que presta o serviço agendado
-Serviço: tipo de serviço a ser prestado
-Horário: horário disponível para agendamento
-Agendamento: reserva de um horário para um serviço com um funcionário
-Relacionamentos:
+Cliente: pessoa que agenda o horário.
 
+Funcionário: pessoa que presta o serviço agendado.
+
+Serviço: tipo de serviço a ser prestado.
+
+Horário: horário disponível para agendamento.
+
+Agendamento: reserva de um horário para um serviço com um funcionário.
+
+Relacionamentos:
 Um cliente pode fazer muitos agendamentos
 Um agendamento é feito por um cliente
 Um agendamento é para um único horário
-Um horário pode ter muitos agendamentos
 Um agendamento é para um único serviço
 Um serviço pode estar em muitos agendamentos
 Um agendamento é para um único funcionário
