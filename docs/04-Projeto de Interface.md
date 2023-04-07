@@ -7,7 +7,7 @@ Nesta etapa será apresentado uma visão geral da interação do usuário pelas 
 
 ## Diagrama de Fluxo
 
-![diagrama de fluxo](https://user-images.githubusercontent.com/82223068/230239211-2d01207f-2b11-46a2-bafe-50607a3e0a98.jpg)
+![diagrama de fluxo1](https://user-images.githubusercontent.com/82223068/230613852-66ebb70b-2b96-419a-9b0e-eadaf338c749.jpg)
 
 Diagrama de Fluxo (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
