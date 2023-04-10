@@ -37,6 +37,8 @@ Um serviço pode estar em muitos agendamentos
 Um agendamento é para um único funcionário
 Um funcionário pode ter muitos agendamentos.
 
+![Modelo ER ()](https://user-images.githubusercontent.com/112700596/230811075-cf5165bd-4721-45c1-8240-0346212c2aa1.png)
+
 
 ## Projeto da Base de Dados
 
