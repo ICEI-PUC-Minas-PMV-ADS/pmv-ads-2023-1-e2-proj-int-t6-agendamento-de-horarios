@@ -9,7 +9,8 @@ A arquitetura da solução consiste em uma aplicação web, uma API Rest e um ba
 
 Na figura a seguir são apresentados as classes do sistema.
 
-![Class Diagram1](https://user-images.githubusercontent.com/112700596/230809184-3fd94982-f010-455b-9f82-d266c1494dce.png)
+![Class Diagram1](https://user-images.githubusercontent.com/112700596/230811373-3024b5a9-0372-4007-8e66-b044b7e4ccf5.png)
+
 
 
 ## Modelo ER (Projeto Conceitual)
