@@ -9,7 +9,9 @@ A arquitetura da solução consiste em uma aplicação web, uma API Rest e um ba
 
 Na figura a seguir são apresentados as classes do sistema.
 
-![Class Diagram1](https://user-images.githubusercontent.com/112700596/230811373-3024b5a9-0372-4007-8e66-b044b7e4ccf5.png)
+
+![Class Diagram1](https://user-images.githubusercontent.com/112700596/231601759-614efe1c-2ccc-4a80-b012-8073504b29d3.png)
+
 
 
 
@@ -38,7 +40,8 @@ Um serviço pode estar em muitos agendamentos
 Um agendamento é para um único funcionário
 Um funcionário pode ter muitos agendamentos.
 
-![Modelo ER ()](https://user-images.githubusercontent.com/112700596/230811075-cf5165bd-4721-45c1-8240-0346212c2aa1.png)
+![Modelo EF 2](https://user-images.githubusercontent.com/112700596/231601668-444966ef-e944-4b43-bb96-202df3b4aa2a.png)
+
 
 
 ## Projeto da Base de Dados
@@ -47,8 +50,7 @@ Definir os requisitos de negócios: O sistema de agendamento de horários deve p
 Identificar as entidades e seus relacionamentos.
 
 
-![Modelo EF](https://user-images.githubusercontent.com/112700596/230214753-181537e4-7726-40f9-abd7-399a796c4c53.png)
-
+![novo banco de dados](https://user-images.githubusercontent.com/112700596/231606162-bff328cc-3ee9-4e8c-a7a2-1138c2a6c277.png)
 ## Tecnologias Utilizadas
 
 Identity Microsoft: Gerenciamento de usuários,
