@@ -48,7 +48,7 @@ Serviço: tipo de serviço a ser prestado.
 ## Projeto da Base de Dados
 
 O sistema de agendamento de horários deve permitir que clientes agendem serviços com funcionários em horários disponíveis. Os clientes devem ser capazes de visualizar os horários disponíveis para os serviços que desejam agendar, selecionar um horário disponível e confirmar o agendamento. Os funcionários devem ser capazes de visualizar sua agenda diária com os serviços agendados e os horários disponíveis.
-Identificar as entidades e seus relacionamentos.
+
 
 
 ![a](https://user-images.githubusercontent.com/112700596/232036630-a177af1b-c541-4075-8042-db720c8cf01a.png)
