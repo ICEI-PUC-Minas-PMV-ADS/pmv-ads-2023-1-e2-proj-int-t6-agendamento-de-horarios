@@ -33,14 +33,6 @@ Horário: horário disponível para agendamento.
 
 Agendamento: reserva de um horário para um serviço com um funcionário.
 
-Relacionamentos:
-Um cliente pode fazer muitos agendamentos
-Um agendamento é feito por um cliente
-Um agendamento é para um único horário
-Um agendamento é para um único serviço
-Um serviço pode estar em muitos agendamentos
-Um agendamento é para um único funcionário
-Um funcionário pode ter muitos agendamentos.
 
 ![Captura de tela nvoov galo](https://user-images.githubusercontent.com/112700596/231929866-cb6a0f5a-fe1a-4a1c-abc2-f12a6b0465ed.png)
 
