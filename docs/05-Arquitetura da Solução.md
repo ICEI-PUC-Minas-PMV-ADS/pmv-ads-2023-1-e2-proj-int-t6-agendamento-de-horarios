@@ -49,7 +49,8 @@ O sistema de agendamento de horários deve permitir que clientes agendem serviç
 Identificar as entidades e seus relacionamentos.
 
 
-![50](https://user-images.githubusercontent.com/112700596/232034624-4dbe6422-0ff0-4dfd-a9a6-7790ca27e2c6.png)
+![a](https://user-images.githubusercontent.com/112700596/232036630-a177af1b-c541-4075-8042-db720c8cf01a.png)
+
 
 
 
