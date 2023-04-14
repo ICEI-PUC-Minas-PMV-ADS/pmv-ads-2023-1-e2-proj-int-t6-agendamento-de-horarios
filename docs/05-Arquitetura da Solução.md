@@ -10,7 +10,8 @@ A arquitetura da solução consiste em uma aplicação web, uma API Rest e um ba
 Na figura a seguir são apresentados as classes do sistema.
 
 
-![Class Diagram0](https://user-images.githubusercontent.com/112700596/232030803-84116086-2e26-4263-87ca-fadc006e5e51.png)
+![Class Diagram0](https://user-images.githubusercontent.com/112700596/232036368-2f5076f3-1ae1-4c9f-9e2f-22e840c27202.png)
+
 
 
 
