@@ -10,7 +10,8 @@ A arquitetura da solução consiste em uma aplicação web, uma API Rest e um ba
 Na figura a seguir são apresentados as classes do sistema.
 
 
-![Class Diagram0](https://user-images.githubusercontent.com/112700596/232165542-752feba8-8f16-438e-a827-b70f8447ae11.png)
+![Class Diagram0](https://user-images.githubusercontent.com/112700596/232169857-e01720e4-5e1e-4ca4-8cf9-72a2c5d52a4e.png)
+
 
 
 
@@ -40,7 +41,8 @@ Serviço: tipo de serviço a ser prestado.
 
 
 
-![csa](https://user-images.githubusercontent.com/112700596/232168091-60b668ad-a00c-40e0-a115-47f5d702cab0.png)
+![er1](https://user-images.githubusercontent.com/112700596/232170184-f512c8a4-ee92-4b3d-be95-9136dc12ad26.png)
+
 
 
 
@@ -54,7 +56,8 @@ O sistema de agendamento de horários deve permitir que clientes agendem serviç
 
 
 
-![bc](https://user-images.githubusercontent.com/112700596/232052951-fa4629f4-e8f0-47fb-a55c-5db8b7cdc262.png)
+![bc3](https://user-images.githubusercontent.com/112700596/232170996-96d5d531-5e7d-4c2d-a3c1-075163130ece.png)
+
 
 
 
