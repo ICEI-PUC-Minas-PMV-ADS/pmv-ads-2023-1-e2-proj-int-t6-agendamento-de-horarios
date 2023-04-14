@@ -23,15 +23,16 @@ Para modelar um sistema de agendamento de horários usando a abordagem de modela
 
 Entidades:
 
-Cliente: pessoa que agenda o horário.
+Empresa: organização que oferece o serviço.
 
-Funcionário: pessoa que presta o serviço agendado.
+Profissional: pessoa que presta o serviço agendado.
+
+Agendamento: reserva de um horário para um serviço com um funcionário.
+
+Cliente: pessoa que agenda o horário.
 
 Serviço: tipo de serviço a ser prestado.
 
-Horário: horário disponível para agendamento.
-
-Agendamento: reserva de um horário para um serviço com um funcionário.
 
 
 ![Captura de tela nvoov galo](https://user-images.githubusercontent.com/112700596/231929866-cb6a0f5a-fe1a-4a1c-abc2-f12a6b0465ed.png)
