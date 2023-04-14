@@ -30,7 +30,7 @@ Empresa: organização que oferece o serviço.
 
 Profissional: pessoa que presta o serviço agendado.
 
-Agendamento: reserva de um horário para um serviço com um funcionário.
+Agendamento: reserva de um horário para um serviço com um profissional.
 
 Cliente: pessoa que agenda o horário.
 
