@@ -9,7 +9,8 @@ A arquitetura da solução consiste em uma aplicação web, uma API Rest e um ba
 
 Na figura a seguir são apresentados as classes do sistema.
 
-![Class Diagram0](https://user-images.githubusercontent.com/112700596/231930205-9de482f2-9e9e-4dc0-94e3-046510c85264.png)
+
+![Class Diagram0](https://user-images.githubusercontent.com/112700596/231931340-443ce585-6270-4a61-94f6-2648a11f90df.png)
 
 
 
@@ -51,7 +52,8 @@ Definir os requisitos de negócios: O sistema de agendamento de horários deve p
 Identificar as entidades e seus relacionamentos.
 
 
-![5444545galonovov](https://user-images.githubusercontent.com/112700596/231929930-b3ea2604-c74f-473c-b038-faed22bce1f9.png)
+![5](https://user-images.githubusercontent.com/112700596/231931405-b7a4ce65-c1c6-4acc-8e0e-df9d7b5e27c0.png)
+
 
 ## Tecnologias Utilizadas
 
