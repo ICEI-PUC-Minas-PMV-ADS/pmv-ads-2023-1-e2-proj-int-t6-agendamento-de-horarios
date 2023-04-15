@@ -14,7 +14,8 @@ Na figura a seguir são apresentados as classes do sistema:
 
 
 
-![Class Diagram0](https://user-images.githubusercontent.com/112700596/232227439-08f664c8-bf08-494a-9511-ff7c8382180b.png)
+![Class Diagram0](https://user-images.githubusercontent.com/112700596/232232020-1c0d08ee-fd0d-4083-b7ad-127b123997a8.png)
+
 
 
 
@@ -42,7 +43,8 @@ Serviço: tipo de serviço a ser prestado.
 
 
 
-![br22](https://user-images.githubusercontent.com/112700596/232229084-08880e3a-ec46-4ea1-bea8-e46bfc1c311d.png)
+![aa10](https://user-images.githubusercontent.com/112700596/232231306-163678ae-b822-43f0-97a8-70365a7ebf04.png)
+
 
 
 
@@ -59,7 +61,8 @@ O sistema de agendamento de horários deve permitir que clientes agendem serviç
 
 
 
-![bd25](https://user-images.githubusercontent.com/112700596/232230159-85da9f4e-1af4-4399-9248-fc57a2b6d3b9.png)
+![fg25](https://user-images.githubusercontent.com/112700596/232231181-09372b13-0881-42d1-8752-279c0eccebd0.png)
+
 
 
 
