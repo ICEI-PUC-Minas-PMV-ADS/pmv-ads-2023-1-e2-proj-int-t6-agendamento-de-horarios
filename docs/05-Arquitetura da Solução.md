@@ -31,13 +31,13 @@ Para modelar um sistema de agendamento de horários usando a abordagem de modela
 
 Entidades:
 
-Empresa: organização que oferece o serviço.
-
 Profissional: pessoa que presta o serviço agendado.
 
 Agendamento: reserva de um horário para um serviço com um profissional.
 
 Cliente: pessoa que agenda o horário.
+
+ItensServico: descricão do serviço a ser prestado.
 
 Serviço: tipo de serviço a ser prestado.
 
