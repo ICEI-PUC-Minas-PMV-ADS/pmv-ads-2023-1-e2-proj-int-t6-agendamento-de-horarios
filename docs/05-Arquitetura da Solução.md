@@ -61,7 +61,8 @@ O sistema de agendamento de horários deve permitir que clientes agendem serviç
 
 
 
-![bc30](https://user-images.githubusercontent.com/112700596/232233464-8950acd2-575d-4764-ac82-12bf37fd6ad1.png)
+![bc 65](https://user-images.githubusercontent.com/112700596/232233893-2d90d39b-2d05-49c2-85bb-5b3fb3977b59.png)
+
 
 
 
