@@ -29,7 +29,7 @@ A página de cadastro será para o novo usuário que deseja criar uma conta em n
 
 ## Menu principal
 
-![principal](https://user-images.githubusercontent.com/82223068/230166601-520bab5f-5f80-4636-88fd-112bfb44836e.jpg)
+![principal](https://user-images.githubusercontent.com/82223068/232235519-b7038819-3098-4776-aa0d-7fd8c80ea039.jpg)
 
 O menu principal será onde o usuário poderá visualizar os horários disponíveis para agendamento, realizar o seu agendamento e ter acesso ao menu lateral.
 
