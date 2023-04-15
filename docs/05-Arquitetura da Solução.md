@@ -7,13 +7,14 @@ O projeto será desenvolvido utilizando o padrão de arquitetura em camadas por 
 
 A arquitetura da solução consiste em uma aplicação web, uma API Rest e um banco de dados SQL Server hospedados em um servidor web na AZURE. O sistema pode ser acessado através de interfaces web instaladas em desktops, notebooks, dispositivos móveis e painéis televisores.
 
-Na figura a seguir são apresentados as classes do sistema.
-
-
-![Class Diagram0](https://user-images.githubusercontent.com/112700596/232169857-e01720e4-5e1e-4ca4-8cf9-72a2c5d52a4e.png)
+Na figura a seguir são apresentados as classes do sistema:
 
 
 
+
+
+
+![Class Diagram0](https://user-images.githubusercontent.com/112700596/232227439-08f664c8-bf08-494a-9511-ff7c8382180b.png)
 
 
 
@@ -41,7 +42,9 @@ Serviço: tipo de serviço a ser prestado.
 
 
 
-![er1](https://user-images.githubusercontent.com/112700596/232170184-f512c8a4-ee92-4b3d-be95-9136dc12ad26.png)
+![br22](https://user-images.githubusercontent.com/112700596/232229084-08880e3a-ec46-4ea1-bea8-e46bfc1c311d.png)
+
+
 
 
 
@@ -56,7 +59,8 @@ O sistema de agendamento de horários deve permitir que clientes agendem serviç
 
 
 
-![bc3](https://user-images.githubusercontent.com/112700596/232170996-96d5d531-5e7d-4c2d-a3c1-075163130ece.png)
+![bd25](https://user-images.githubusercontent.com/112700596/232230159-85da9f4e-1af4-4399-9248-fc57a2b6d3b9.png)
+
 
 
 
