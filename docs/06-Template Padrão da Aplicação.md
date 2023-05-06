@@ -4,6 +4,11 @@
 
 Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
+## Tela de Login
+##### Logo abaixo está a tela de login onde o usuário após ter realizado o cadastro terá que inserir o seu e-mail e senha cadastrados.
+![image](https://user-images.githubusercontent.com/113395332/236649854-f1614481-2863-4240-8b74-0976d52655f6.png)
+
+
 > **Links Úteis**:
 >
 > - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
