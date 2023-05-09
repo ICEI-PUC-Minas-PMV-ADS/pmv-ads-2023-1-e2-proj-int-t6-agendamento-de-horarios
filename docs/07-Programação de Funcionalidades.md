@@ -12,6 +12,7 @@ Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos 
 
 # Samuel Oliveira = Tela de Agendamentos
 Criei um tela funcional com crud de agendamentos.
+
 Etapa 3 : https://youtu.be/4Hakh0lJOik
 
 # Instruções de acesso
