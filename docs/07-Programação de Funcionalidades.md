@@ -10,6 +10,10 @@ Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos 
 |------|-----------------------------------------|----|
 |RF-02| Permitir que o usuário realize seu cadastro e login | usuario.cs / LoginController.cs / CadastroController.cs / index.cshtml do login / index.cshtml do cadastro | 
 
+# Samuel Oliveira = Tela de Agendamentos
+Criei um tela funcional com crud de agendamentos.
+Etapa 3 : https://youtu.be/4Hakh0lJOik
+
 # Instruções de acesso
 
 Não deixe de informar o link onde a aplicação estiver disponível para acesso (por exemplo: https://adota-pet.herokuapp.com/src/index.html).
@@ -25,3 +29,7 @@ O link e o usuário/senha descritos acima são apenas exemplos de como tais info
 > - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
 > - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+
+#Samuel Oliveira = Tela Agendamentos
+Criei um crud de agend
+
