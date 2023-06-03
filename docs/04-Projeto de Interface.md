@@ -7,7 +7,7 @@ Nesta etapa será apresentado uma visão geral da interação do usuário pelas 
 
 ## Diagrama de Fluxo
 
-![diagrama de fluxo1](https://user-images.githubusercontent.com/82223068/230613852-66ebb70b-2b96-419a-9b0e-eadaf338c749.jpg)
+![diagrama de fluxo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t6-agendamento-de-horarios/assets/82223068/086841b4-c036-40c5-8ff4-a572e3633c2d)
 
 Diagrama de Fluxo (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
@@ -15,32 +15,26 @@ Diagrama de Fluxo (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 Um wireframe de site web ou website wireframe é um protótipo usado em design de interface para sugerir a estrutura de um sítio web e relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
 
+## Home
+
+![home](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t6-agendamento-de-horarios/assets/82223068/b6d00b26-8f2f-4162-a7af-155e35a230c1)
+
+A home será onde o usuário poderá se cadastrar, efetuar login, e navegar entre as funcionalidades do sistema.
+
 ## Página de login
 
-![login](https://user-images.githubusercontent.com/82223068/230165534-19e55c98-0819-457c-9cfe-bb22cc5506c9.jpg)
+![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t6-agendamento-de-horarios/assets/82223068/24db784a-e538-4fdc-9894-1b51513c399d)
 
 A página de login será o início da aplicação, onde o usuário poderá acessar a aplicação caso já possua um cadastro ou crie uma nova conta.
 
 ## Página de cadastro
 
-![cadastro](https://user-images.githubusercontent.com/82223068/230167332-4067711b-c2b9-4817-9bed-b1846954390e.jpg)
+![register](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t6-agendamento-de-horarios/assets/82223068/ed8a198f-03a1-4a14-bead-13dd1268d5a6)
 
 A página de cadastro será para o novo usuário que deseja criar uma conta em nossa aplicação.
 
-## Menu principal
+## Página de agendamentos
 
-![principal](https://user-images.githubusercontent.com/82223068/232235519-b7038819-3098-4776-aa0d-7fd8c80ea039.jpg)
+![agendamentos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t6-agendamento-de-horarios/assets/82223068/2f2e395a-4cff-48dd-8076-c2c68820c544)
 
-O menu principal será onde o usuário poderá visualizar os horários disponíveis para agendamento, realizar o seu agendamento e ter acesso ao menu lateral.
-
-## Menu lateral
-
-![menu lateral](https://user-images.githubusercontent.com/82223068/230167703-2427efef-0c78-41a8-9c92-8f8ff41b80d1.jpg)
-
-O menu lateral será utilizado pelo usuário para navegação em nossa aplicação, nele é possível visualizar seus horários marcados, alterar informações de cadastro no perfil, retornar para a página principal e sair para a página de login.
-
-## Minha agenda
-
-![minha agenda](https://user-images.githubusercontent.com/82223068/230168942-ec4fedf1-caff-4e7d-97f8-ca7d48029b9b.jpg)
-
-A minha agenda exibirá ao usuário seus horários já marcados.
+A página de agendamentos será onde o usuário poderá realizar agendamentos, visualizar agendamentos já feitos, e os horários disponíveis.
