@@ -8,29 +8,16 @@ Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos 
 
 |ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
 |------|-----------------------------------------|----|
-|RF-02| Permitir que o usuário realize seu cadastro e login | usuario.cs / LoginController.cs / CadastroController.cs / index.cshtml do login / index.cshtml do cadastro | 
+|RF-01| Permitir que o usuário visualize as marcações ja realizadas e posso realizar uma nova marcação | AgendamentosController.cs / Agendamentos.cs / Create.cshtml / Details.cshtml / Index.cshtml |
+|RF-02| Permitir que o usuário realize seu cadastro e login | usuario.cs / LoginController.cs / CadastroController.cs / index.cshtml do login / index.cshtml do cadastro |
+|RF-03| Permitir que o usuário realize uma reserva na agenda selecionando o horário e serviço necessário | AgendamentosController.cs / Agendamentos.cs / Create.cshtml / Details.cshtml / Index.cshtml |
+|RF-04| Permitir que ao usuário pesquisar e visualizar o histório de marcações na agenda | AgendamentosController.cs / Agendamentos.cs / Details.cshtml / Index.cshtml |
+|RF-05| Permitir que o usuário possa gerenciar uma marcação ja realizada, excluindo ou editando as informações ja registradas nela| AgendamentosController.cs / Agendamentos.cs / Create.cshtml / Delete.cshtml / Details.cshtml / Edit.cshtml / Index.cshtml |
 
-# Samuel Oliveira = Tela de Agendamentos
-Criei um tela funcional com crud de agendamentos.
-
-Etapa 3 : https://youtu.be/4Hakh0lJOik
 
 # Instruções de acesso
 
-Não deixe de informar o link onde a aplicação estiver disponível para acesso (por exemplo: https://adota-pet.herokuapp.com/src/index.html).
+O aplicação ja está acessível através do seguinte link: https://projetobarbearia.azurewebsites.net/
 
-Se houver usuário de teste, o login e a senha também deverão ser informados aqui (por exemplo: usuário - admin / senha - admin).
-
-O link e o usuário/senha descritos acima são apenas exemplos de como tais informações deverão ser apresentadas.
-
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
-
-#Samuel Oliveira = Tela Agendamentos
-Criei um crud de agend
+Assim que acessado o sistema, pode ser feito o cadastro, login e em seguida realizar a sua reserva e visualiza-la salva.
 
