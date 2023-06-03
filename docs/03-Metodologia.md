@@ -55,7 +55,7 @@ As ferramentas empregadas no projeto são:
 
 - Editor de código: Microsoft Visual Studio.
 - Ferramentas de comunicação: Microsoft Teams, Email, WhatsApp.
-- Ferramentas de desenho de tela: Gimp.
+- Ferramentas de desenho de tela: Gimp, Lucidchart
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
