@@ -33,7 +33,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-01| O sistema deve apresentar na página principal uma agenda padrão para realizar a reserva do horário | ALTA  | 
+|RF-01| O sistema deve apresentar na página principal a opção do usuário realizar a reserva do horário e serviço necessário | ALTA  | 
 |RF-02| O sistema deve apresentar a funcionalidade de cadastro e login de usuário | ALTA  |
 |RF-03| O site deve permitir ao usuário realizar uma marcação em um determinado horário na agenda | MÉDIA |
 |RF-04| O site deve possibilitar o usuário pesquisar e visualizar o histório de marcações na agenda | MÉDIA |
@@ -66,4 +66,4 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
 
-![userflow](img/diagrama-caso-de-uso.png)
+![Diagrama em branco](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t6-agendamento-de-horarios/assets/113395332/eee126c1-f591-44a5-9544-7b1b9d045d43)
