@@ -4,7 +4,7 @@
 
 Para cada caso de teste definido no Plano de Testes de Software, realize o registro das evidências dos testes feitos na aplicação pela equipe, que comprovem que o critério de êxito foi alcançado (ou não!!!). Para isso, utilize uma ferramenta de captura de tela que mostre cada um dos casos de teste definidos (obs.: cada caso de teste deverá possuir um vídeo do tipo _screencast_ para caracterizar uma evidência do referido caso).
 
-Todos os testes foram feitos a partir da aplicação online na Azure: https://projetobarbearia.azurewebsites.net/
+Todos os testes foram feitos a partir da aplicação online na Azure: [https://projetobarbearia.azurewebsites.net/](https://webbarbearia20230612031154.azurewebsites.net/)
 
 ## CT-01 – Cadastrar perfil
 A imagem a seguir demonstra o resultado do teste deste requisito, sendo que o usuário inseriu os seus dados no formulário de registro e o sistema não retornou nenhum alerta de erro:
@@ -47,19 +47,19 @@ Após o usuário realizar o login poderá ir até a aba "Agendamentos" para real
 
 ![agendamentos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t6-agendamento-de-horarios/assets/82223068/e24a2e57-623d-455d-8fcd-e9eaefe50c9e)
 
-Logo após indo até a opção "Create New":
+Logo após indo até a opção "Agendar":
 
-![agendamento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t6-agendamento-de-horarios/assets/82223068/22f416b0-e854-45c2-982d-423bfa25b186)
+![agendamento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t6-agendamento-de-horarios/assets/82223068/165aa8de-ee4a-4664-b559-ebd1c3810e8c)
 
 O usuário passará suas informações e poderá escolher a data, hora e o profissional desejado para a sua reserva:
 
-![create agendamento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t6-agendamento-de-horarios/assets/82223068/5dd6730f-8a1a-4870-8b61-7e06ba35383a)
+![create agendamento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t6-agendamento-de-horarios/assets/82223068/6dd7d7c3-68ab-4071-8632-ab8b149670d1)
 ![data agendamento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t6-agendamento-de-horarios/assets/82223068/c44667cf-e4db-4e08-97f8-e276520054cf)
 ![profissional agendamento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t6-agendamento-de-horarios/assets/82223068/a60fb55d-65be-4169-a99b-91c4b8d9a8c2)
 
 Após fornecer as informações desejadas o agendamento será criado e exibido na aba agendamentos, podendo ser editado ou deletado:
 
-![agendamento criado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t6-agendamento-de-horarios/assets/82223068/d216348a-37d7-4965-a77d-1fb3b59d69f4)
+![agendamento criado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t6-agendamento-de-horarios/assets/82223068/9bb03fe8-136f-4756-8a5d-3187a3c444c0)
 
 ## Conclusão CT-03
 
@@ -69,11 +69,13 @@ A funcionalidade funcionou corretamente sem nenhum erro durante os testes, atend
 
 O sistema irá mostrar o histórico de agendamentos na aba agendamentos:
 
-![historico](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t6-agendamento-de-horarios/assets/82223068/fcc56489-8928-4f75-acdb-0329c522c180)
+![historico](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t6-agendamento-de-horarios/assets/82223068/3714d47d-8d20-436d-a5bf-41c4052f2412)
 
 ## Conclusão CT-04
 
-O sistema mostrou o histórico corretamente, porém o usuário consegue visualizar os agendamentos de outros usuários o que não deveria ser permitido.
+O sistema mostrou o histórico corretamente, porém na primeira versão o usuário conseguia visualizar os agendamentos de outros usuários o que não deveria ser permitido. 
+
+Após a correção o sistema exibe somente os agendamentos criados pelo usuário.
 
 ## CT-05 - Gerenciar agendamentos
 
@@ -88,4 +90,6 @@ Podendo alterar todas as informações, como por exemplo alterando o horário da
 
 ## Conclusão CT-05
 
-O sistema está gerenciando o agendamento sem nenhum problema, porém o usuário consegue editar os agendamentos de outros usuários o que não deveria ser permitido.
+O sistema está gerenciando o agendamento sem nenhum problema, porém na primeira versão o usuário conseguia editar os agendamentos de outros usuários o que não deveria ser permitido.
+
+Após a correção o sistema não permite o usuário editar agendamento de outros usuários, somente os que foi criado por ele.
