@@ -2,11 +2,11 @@
 
 <span style="color:red">Pré-requisitos: Todos os demais artefatos</span>
 
-Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do projeto contemplando todos os itens trabalhados nos demais artefatos.
+Link da apresentação: https://view.genial.ly/6415bb77a053fb001a68845f/presentation-agendamento-de-horarios
 
 ## Título do Projeto
 
-Nome e marca do projeto
+Agendamento de Horários
 
 ## Identidade Visual (Marca, Design)
 
