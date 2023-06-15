@@ -20,7 +20,7 @@ Desenvolvimento de uma aplicação para agendamento de horários para uma barbea
 
 ## Instruções de utilização
 
-O aplicação ja está acessível através do seguinte link: https://projetobarbearia.azurewebsites.net/
+O aplicação ja está acessível através do seguinte link: https://webbarbearia20230612031154.azurewebsites.net/
 
 Assim que acessado o sistema, pode ser feito o cadastro, login e em seguida realizar a sua reserva e visualiza-la salva.
 
